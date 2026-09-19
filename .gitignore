@@ -1,0 +1,9 @@
+*.pcap
+*.cap
+.msf4/
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
+.idea/
