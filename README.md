@@ -1,6 +1,5 @@
-# testfire-banking-security-analysis
-Web application security assessment of testfire.net banking demo. Analyzed traffic, cookies, headers, identified 8 vulnerabilities with remediation roadmap. Educational purpose only.
 # TestFire Banking Application Security Analysis
+Web application security assessment of testfire.net banking demo. Analyzed traffic, cookies, headers, identified 8 vulnerabilities with remediation roadmap. Educational purpose only.
 
 ![Security](https://img.shields.io/badge/Security-Web_Application_Assessment-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
